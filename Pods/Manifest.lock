@@ -1,0 +1,16 @@
+PODS:
+  - SPStorkController (1.8.5)
+
+DEPENDENCIES:
+  - SPStorkController
+
+SPEC REPOS:
+  trunk:
+    - SPStorkController
+
+SPEC CHECKSUMS:
+  SPStorkController: 68966ed3134de2be2a8bbd1475c7e81f3f7d01ee
+
+PODFILE CHECKSUM: 723536959320b654f623c0d9732b09eadabdccc9
+
+COCOAPODS: 1.11.3
